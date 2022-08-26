@@ -6,5 +6,9 @@ Sirve para agregar fracciones.
 A continuación dividiré los símbolos en categorías:
 Tipo de letra:
 Cálculo:
+-El primer símbolo es el límite, el cual es el siguiente:
+    \lim_{} ()
+Éste es muy interesante siempre.
+
 Vectores:
 Álgebra lineal:
