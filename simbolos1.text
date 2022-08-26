@@ -1,2 +1,5 @@
 Hola, este es un texto.
 Me llamo Isaac y esto es un blogpost.
+Hay muchos símbolos matemáticos de latex. Un ejemplo es el siguiente:
+\frac{}{}
+Sirve para agregar fracciones.
